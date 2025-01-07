@@ -12,7 +12,7 @@
 
 - [**React**](https://es.react.dev/) - React es la biblioteca para interfaces de usuario web y nativas.
 - [**Typescript**](https://www.typescriptlang.org/) - TypeScript extiende JavaScript agregando tipos al lenguaje.
-- [**Tailwindcss**](https://tailwindcss.com/) - Un Marco CSS de utilidad para crear rápidamente diseños personalizados..
+- [**Tailwindcss**](https://tailwindcss.com/) - Un Framework CSS de utilidad para crear rápidamente diseños personalizados..
 - [**Biome**](https://biomejs.dev/) - Formateador y linter de código.
 - [**React Sonner**](https://sonner.emilkowal.ski/) - Componente de notificación para React.
 - [**Shadcn UI**](https://ui.shadcn.com/) - Una colección de componentes de interfaz de usuario de código abierto.
